@@ -4,7 +4,7 @@ i tried different git commands
 like:
 
 
-    1. **git init**  (initialization)
+    1. ***git init***  (initialization)
 
     2. git remote add origin(url location name, we can choose any name, normally it is origin) <github url>
 
