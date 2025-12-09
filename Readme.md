@@ -19,3 +19,9 @@ like:
     7. git push -u origin main (first time push, origin means url location name, main: branch name)
 
     8. git push (after first time use only these two words)
+
+    9. git branch new-branch-name (to create new branch)
+
+    10. git switch new-branch-name (To switch in to the newly created branch)
+
+    11. git checkout -b <new-branch-name> (We can also create and switch to a new branch in a single command)
