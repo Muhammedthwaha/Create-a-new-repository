@@ -4,7 +4,7 @@ i tried different git commands
 like:
 
 
-    1. git init
+    1. **git init**  (initialization)
 
     2. git remote add origin(url location name, we can choose any name, normally it is origin) <github url>
 
@@ -22,6 +22,10 @@ like:
 
     9. git branch new-branch-name (to create new branch)
 
-    10. git switch new-branch-name (To switch in to the newly created branch)
+    10. git switch new-branch-name (To switch in to the newly created branch) / git checkout new-branch-name 
 
     11. git checkout -b <new-branch-name> (We can also create and switch to a new branch in a single command)
+
+    12. git checkout new-branch-name (To switch in to the newly created branch)
+
+    13. git merge <branch name> (merge one branch to another branch)
