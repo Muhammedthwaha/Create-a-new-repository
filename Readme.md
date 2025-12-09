@@ -6,7 +6,7 @@ like:
 
     1. git init  (initialization)
 
-    2. git remote add origin(url location name, we can choose any name, normally it is origin) <github url>
+    2. git remote add origin(url giving location name, we can choose any name, normally it is origin) <github url>
 
     3. git branch -M main
 
