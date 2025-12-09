@@ -3,6 +3,12 @@ Here i am experimenting with Git and Github
 i tried different git commands
 like:
 
+first if we need:
+    we need to fork the repository and clone it
+    so clone command:
+        git clone "Project file forked url (which is getting from 'Code')
+        eg: git clone https://github.com/YOUR_github_USERNAME/EXAMPLE_REPO.git
+        
 
     1. git init  (initialization)
 
